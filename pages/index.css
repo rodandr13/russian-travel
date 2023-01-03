@@ -8,3 +8,5 @@
 @import "../blocks/menu/__logo/menu__logo.css";
 @import "../blocks/menu/__lang/menu__lang.css";
 @import "../blocks/menu/__lang-link/__lang-link.css";
+
+@import "../blocks/header/header.css";
