@@ -4,9 +4,9 @@
 
 @import "../blocks/page/page.css";
 
-@import "../blocks/menu/menu.css";
-@import "../blocks/menu/__logo/menu__logo.css";
-@import "../blocks/menu/__lang/menu__lang.css";
-@import "../blocks/menu/__lang-link/__lang-link.css";
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/menu__logo.css";
+@import "../blocks/header/__lang/menu__lang.css";
+@import "../blocks/header/__lang-link/__lang-link.css";
 
 @import "../blocks/lead/lead.css";
