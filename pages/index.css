@@ -9,6 +9,7 @@
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang/header__lang.css";
+@import "../blocks/header/__lang-item/header__lang-item.css";
 @import "../blocks/header/__lang-link/header__lang-link.css";
 
 @import "../blocks/lead/lead.css";
