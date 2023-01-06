@@ -37,3 +37,10 @@
 @import "../blocks/place/__paragraph/place__paragraph.css";
 @import "../blocks/place/__url-heading/place__url-heading.css";
 @import "../blocks/place/__link/place__link.css";
+
+@import "../blocks/cover/cover.css";
+@import "../blocks/cover/__link/cover__link.css";
+@import "../blocks/cover/__overlay/cover__overlay.css";
+@import "../blocks/cover/__title/cover__title.css";
+@import "../blocks/cover/__subtitle/cover__subtitle.css";
+
