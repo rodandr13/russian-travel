@@ -4,3 +4,7 @@
   margin: 0 auto;
   padding: 92px 0 0 0;
 }
+
+.cover:hover .cover__overlay {
+  opacity: 0.8;
+}
