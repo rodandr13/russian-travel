@@ -1,8 +1,8 @@
 .cover {
+  align-self: center;
+  width: 100%;
   max-width: 1184px;
   height: 740px;
-  margin: 0 auto;
-  padding: 92px 0 0 0;
 }
 
 .cover:hover .cover__overlay {

@@ -1,5 +1,4 @@
-.places {
+.content {
   display: flex;
   flex-direction: column;
-  padding: 12px 148px 92px 148px;
 }
