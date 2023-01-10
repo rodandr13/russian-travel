@@ -9,5 +9,6 @@
 @media screen and (max-width: 650px) {
   .place {
     flex-direction: column;
+    padding: 50px 0 0 0;
   }
 }

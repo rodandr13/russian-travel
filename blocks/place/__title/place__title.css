@@ -26,8 +26,10 @@
 
 @media screen and (max-width: 650px) {
   .place__title {
+    box-sizing: border-box;
     max-width: 100%;
     margin: 0;
+    padding: 0 16px 0 16px;
     font-size: 32px;
     line-height: 35px;
     align-self: flex-start;

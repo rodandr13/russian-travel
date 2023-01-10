@@ -1,23 +1,25 @@
 .place__text-container {
   box-sizing: border-box;
-  width: calc(100% - 500px);
+  max-width: calc(100% - 500px);
   padding: 0 16px 0 0;
 }
 
 @media screen and (max-width: 1150px) {
   .place__text-container {
-    width: calc(100% - 472px);
+    max-width: calc(100% - 472px);
   }
 }
 
 @media screen and (max-width: 850px) {
   .place__text-container {
-    width: calc(100% - 368px);
+    max-width: calc(100% - 368px);
   }
 }
 
 @media screen and (max-width: 650px) {
   .place__text-container {
-    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 0 16px 0 16px;
   }
 }
