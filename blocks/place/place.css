@@ -3,4 +3,11 @@
   display: flex;
   flex-wrap: wrap;
   padding: 80px 0 0 0;
+  min-width: 320px;
+}
+
+@media screen and (max-width: 650px) {
+  .place {
+    flex-direction: column;
+  }
 }
