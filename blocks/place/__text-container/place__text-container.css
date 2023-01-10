@@ -1,0 +1,21 @@
+.place__text-container {
+  width: calc(100% - 500px);
+}
+
+@media screen and (max-width: 1024px) {
+  .place__text-container {
+    width: calc(100% - 472px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__text-container {
+    width: calc(100% - 368px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__text-container {
+    width: 100%;
+  }
+}
