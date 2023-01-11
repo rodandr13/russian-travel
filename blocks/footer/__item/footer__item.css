@@ -6,9 +6,13 @@
   margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .footer__item {
     margin: 32px 0 0 0;
+  }
+
+  .footer__item:first-child {
+    margin: 0;
   }
 
   .footer__item:last-child {
