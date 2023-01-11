@@ -6,7 +6,7 @@
   min-width: 320px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 750px) {
   .place {
     flex-direction: column;
     padding: 50px 0 0 0;
