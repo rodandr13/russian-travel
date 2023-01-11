@@ -5,21 +5,22 @@
   flex-direction: column;
   max-width: calc(100% - 48 * 2);
   padding: 56px 148px 92px 148px;
+  margin: 0 auto;
 }
 
-@media screen  and (max-width: 1024px) {
+@media screen  and (max-width: 1150px) {
   .lead {
     padding: 48px 48px 92px 48px;
   }
 }
 
-@media screen  and (max-width: 768px) {
+@media screen  and (max-width: 850px) {
   .lead {
     padding: 48px 0 88px 0;
   }
 }
 
-@media screen  and (max-width: 320px) {
+@media screen  and (max-width: 650px) {
   .lead {
     padding: 48px 0 64px 0;
   }
