@@ -6,6 +6,7 @@
   font-size: 72px;
   line-height: 76px;
   font-weight: 900;
+  letter-spacing: 0.9px;
 }
 
 @media screen and (max-width: 1150px) {

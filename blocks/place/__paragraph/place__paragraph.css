@@ -11,8 +11,26 @@
   margin: 48px 0 0 0;
 }
 
+@media screen and (max-width: 850px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 25.8px;
+  }
+  .place__paragraph:first-child {
+    margin: 48px 0 0 0;
+  }
+}
+
+
 @media screen and (max-width: 750px) {
   .place__paragraph:first-child {
     margin: 32px 0 0 0;
+    letter-spacing: 0.11px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .place__paragraph {
+    letter-spacing: 0.11px;
   }
 }

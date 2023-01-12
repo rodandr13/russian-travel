@@ -4,7 +4,7 @@
   align-items: center;
   flex-direction: column;
   max-width: calc(100% - 48px * 2);
-  padding: 56px 100px 92px 100px;
+  padding: 53px 100px 92px 100px;
   margin: 0 auto;
 }
 
@@ -23,6 +23,6 @@
 
 @media screen  and (max-width: 650px) {
   .lead {
-    padding: 48px 0 64px 0;
+    padding: 46px 0 64px 0;
   }
 }

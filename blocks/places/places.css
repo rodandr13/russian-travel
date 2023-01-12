@@ -2,7 +2,7 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  padding: 12px 0 92px 0;
+  padding: 8px 0 92px 0;
   max-width: calc(100% - 148px * 2);
   min-width: 320px;
   margin: 0 auto;
@@ -11,6 +11,12 @@
 @media screen and (max-width: 1050px){
   .places {
     max-width: calc(100% - 48px * 2);
+  }
+}
+
+@media screen and (max-width: 850px){
+  .places {
+    max-width: calc(100% - 24px * 2);
   }
 }
 

@@ -5,12 +5,12 @@
   list-style-type: none;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(auto-fit, 1fr);
-  gap: 16px;
+  gap: 13px 16px;
 }
 
 @media screen and (max-width: 1150px) {
   .photo-grid__list {
-    gap: 14px;
+    gap: 10px 14px;
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -18,7 +18,7 @@
 @media screen and (max-width: 850px) {
   .photo-grid__list {
     margin: 0 24px 0 24px;
-    gap: 16px;
+    gap: 11px 14px;
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -26,7 +26,7 @@
 @media screen and (max-width: 550px) {
   .photo-grid__list {
     margin: 0 16px 0 16px;
-    gap: 12px;
+    gap: 8px;
     grid-template-columns: repeat(1, 1fr);
   }
 }
